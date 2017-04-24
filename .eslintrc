@@ -1,0 +1,8 @@
+{
+  "env": { 
+    "es6": true
+  }, 
+  "extends": "airbnb",
+  "plugins": [ "react", "jsx-a11y", "html" ],
+  "eslint.validate": [ "javascript", "javascriptreact", "html" ]
+}
